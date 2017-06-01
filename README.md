@@ -1,2 +1,2 @@
 # whuizi.github.io
-个人知识管理
+惠子兴趣部落
